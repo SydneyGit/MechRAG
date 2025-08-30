@@ -3,8 +3,8 @@ MechRAG is a Large Language Model (LLM)-based augmented tool for mechanical engi
 
 
 The notebooks are used for:
-  1) Text tasks
-  2) Multi-modal tasks
+  1) Text tasks: MechRAG_textTask_Claude.ipynb (MechRAG_textTask_Claude_git.ipynb is the same code but processed for github rendering if MechRAG_textTask_Claude.ipynb does not work properly)
+  2) Multi-modal tasks: MechRAG_MutltimodalTask_GPT.ipynb (MechRAG_MutltimodalTask_GPT_git.ipynb is the same code but processed for github rendering if MechRAG_MutltimodalTask_GPT.ipynb does not work properly)
 
 
  
